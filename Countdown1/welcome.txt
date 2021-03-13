@@ -1,7 +1,7 @@
 The task you is to (1) put in "" in the middle of your name a nickname you go by and (2) after your name write the title of your memoir.
 ex/ Camille "Camy" Cooper: C is for Chaotic
 
-Abbey "Abbey" Yared: Story of my Life
+Abbey Yared
 Abby Rieck
 Abhir Karande
 Adriel "Andy" Kim: A is for awesome
@@ -19,7 +19,7 @@ Charles Glennon
 Christian Reyes
 Colin Buyck
 Connor Noble
-Cooper "Coop" DeVito: One odd kid.
+Cooper DeVito
 David Hasani
 Dhruv "dhruvbatra2" Batra <insert better name later>
 Ellis Nolan
@@ -48,7 +48,7 @@ Nolan "Nolan" Harris: my favorite color is yellow
 Ronith "Ronith" Ranjan: R is for Radical
 Rory "The Gamer" Gudka: The Guide to Epic Gaming
 Ryan "Ry" Grayson: Rated R
-Ryan "Ryan" Kim: My name is Ry
+Ryan "Ryan" Kim: My name is Ryan
 Sid Tickle
 Srikar Chittari
 Stephen "Steve" Laming: The boring life
@@ -60,5 +60,5 @@ Timothy Conner
 William Greig
 Yaseen Bhuiyan
 Zachary "Zach" Kim: One Day at a Time
-Zain Safavi
+Zain "Zain" Safavi: memoir
 William "TA" Helmrath: A Day in The Life
